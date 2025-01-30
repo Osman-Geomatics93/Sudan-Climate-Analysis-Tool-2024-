@@ -56,3 +56,20 @@ This Google Earth Engine (GEE) script provides a comprehensive analysis of Sudan
 
 ![alt text](image.png)
 
+# Methodology Diagram
+
+![alt text](image-2.png)
+
+# Results Analysis 
+
+1. Temperature Analysis Results
+![alt text](image-3.png)
+
+2. Rainfall Analysis Results
+![alt text](image-4.png)
+
+
+
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
