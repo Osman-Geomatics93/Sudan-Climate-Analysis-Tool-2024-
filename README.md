@@ -65,8 +65,12 @@ This Google Earth Engine (GEE) script provides a comprehensive analysis of Sudan
 1. Temperature Analysis Results
 ![alt text](image-3.png)
 
+![alt text](image-5.png)
+
 2. Rainfall Analysis Results
 ![alt text](image-4.png)
+
+![alt text](image-6.png)
 
 
 
